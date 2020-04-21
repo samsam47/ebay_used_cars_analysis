@@ -1,4 +1,4 @@
-# Used car listings analysis from a P2P commerce platform
+# Second-hand car listings analysis from a P2P commerce platform
 
 In this project, I will work with a dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website. The dataset was originaly scraped and uploaded to Kaggle.
 
